@@ -44,5 +44,5 @@ I am Md. Ohiduzzaman Ove. Currently a student of Bachelor of. Science in Compute
   
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theove46&show_icons=true&theme=tokyonight&layout=compact" alt="theove46" />
  
- 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
