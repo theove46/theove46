@@ -34,6 +34,7 @@
 
 <br />
 ---
+<br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theove46&show_icons=true&theme=tokyonight" alt="theove46" />  
 ---
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theove46&show_icons=true&theme=tokyonight" alt="theove46" />
