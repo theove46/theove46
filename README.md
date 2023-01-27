@@ -1,11 +1,29 @@
 # Hi there, I'm Md. Ohiduzzaman Ove 👋
 
-I'm a Learner, Problem Solver, Developer, and Designer!
+## Problem Solver || Software Engineer
 
-Connect with me:
-[Facebook](https://cdn2.vectorstock.com/i/1000x1000/03/81/facebook-logo-icon-vector-27990381.jpg)
+### Connect with me:
 
-[Linkedin](https://cdn-icons-png.flaticon.com/512/145/145807.png)
+[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
+
+<a href="https://www.linkedin.com/in/ohiduzzaman-ove/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
+</a>
+<br />
+<br />
+
+<a href="https://codeforces.com/profile/ove46">
+   <img src="https://raw.githubusercontent.com/ove46/ct-stats/main/output/max_rating.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ove46&label=Profile%20views&color=0e75b6&style=flat" alt="The Ove 46" />
+
+<b>&#128200; Competitive Programming</b>
+<br />
+<p float="left">
+    <img height="230px" src="https://raw.githubusercontent.com/ove46/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+</p>
+<br/>
+<br/>
 
 <!--
 
