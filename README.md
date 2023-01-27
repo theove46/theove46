@@ -40,11 +40,11 @@
 <img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://toppng.com/uploads/preview/database-database-icon-11563207079binxarjjyp.png" />
 <img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<img align="left" alt="Firebase" width="26px" src="https://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" />
+<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpUN6yhPjDbIPLhCSEXdnqaBqCj4IYrrbHw&usqp=CAU" />
-<img align="left" alt="Figma" width="26px" src="https://w7.pngwing.com/pngs/742/150/png-transparent-figma-square-radio-set-signal-squares-bloomies-webdesign-tools-icon-thumbnail.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://w7.pngwing.com/pngs/818/370/png-transparent-photoshop-2020-logo-icon.png" />
+<img align="left" alt="Figma" width="26px" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU" />
+<img align="left" alt="Photoshop" width="26px" src="https://assets.stickpng.com/images/586d7ac125738d9f2d793e92.png" />
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cc-logo-png-transparent.png" />
 <img align="left" alt="MSOffice" width="26px" src="https://thumbs.dreamstime.com/b/vinnytsia-ukraine-may-microsoft-office-logo-shadow-editorial-vector-illustration-isolated-transparent-background-microsoft-217860058.jpg" />
 
