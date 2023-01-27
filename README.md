@@ -48,11 +48,8 @@
 -->
 
 ---
-  ### :zap: GitHub Stats
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theove46&show_icons=true&theme=tokyonight" alt="theove46" />
-  
-<br />
 
 ---
   
