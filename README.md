@@ -32,12 +32,12 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" />
-<img align="left" alt="Python" width="26px" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-11639606208newcm5th7y.png" />
+<img align="left" alt="Python" width="26px" src="https://banner2.cleanpng.com/20180425/pke/kisspng-python-computer-icons-font-awesome-technology-circle-dots-floating-material-5ae020c2d20263.6237444615246378908602.jpg" />
 <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Flutter" width="26px" src="https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg" />
-<img align="left" alt="Django" width="26px" src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" />
+<img align="left" alt="Flutter" width="26px" src="https://miro.medium.com/max/320/0*ObJbOfJnx4QIPUq9.png" />
+<img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://icon2.cleanpng.com/20180417/irq/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3cde70706.9853526815239628299463.jpg" />
