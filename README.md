@@ -5,18 +5,9 @@
 
 <p align="left"> <img height:30px src="https://komarev.com/ghpvc/?username=theove46&label=Profile%20views&color=0e75b6&style=flat" alt="theove46" /> </p>
 
-![Problem Solver || Software Developer || Creative Writer](https://media.licdn.com/dms/image/D5616AQFEsaDd55V53A/profile-displaybackgroundimage-shrink_350_1400/0/1673544289096?e=1680134400&v=beta&t=RAQNZ1eNJhvkBhf3UsxUgF84reUzTNtIb5PlAPjhi68)
+I am Md. Ohiduzzaman Ove. Currently a student of Bachelor of. Science in Computer Science & Engineering at Dhaka City College (Under The National University, Bangladesh). I am a Software Engineer focusing on Flutter Development and Python Development and a competitive programmer. I love to solve programming problems on various online Judge platforms. Let's stay connected and collaborate together.
 
-I am Md. Ohiduzzaman Ove. Currently a student of Bachelor of. Science in Computer Science & Engineering at Dhaka City College (Under The National University, Bangladesh). I am a Software Engineer focusing on Flutter Development and Python Development and a competitive programmer. I love to solve programming problems on various online Judge platforms. 
-Let's stay connected and collaborate together.
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-![GitHub metrics](https://metrics.lecoq.io/theove46)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=theove46)  
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theove46) 
 
 
 - 🔭 I’m currently working on **Software Engineering**
