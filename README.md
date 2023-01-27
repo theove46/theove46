@@ -12,11 +12,11 @@ I am Md. Ohiduzzaman Ove. Currently a student of Bachelor of. Science in Compute
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 My portfolio [https://theove46.github.io](https://theove46.github.io)
-
 - 💬 Ask me about **Flutter, Python**
 
 - 📫 How to reach me **ohiduzzaman.ove.46@gmail.com**
+
+- 👨‍💻 My portfolio [https://theove46.github.io](https://theove46.github.io)
 
 - ⚡ Fun fact **I have some Taekwondo Skills also!!**
 
