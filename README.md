@@ -1,5 +1,12 @@
 Hi there, I'm Md. Ohiduzzaman Ove 👋
 
+I'm a Learner, Problem Solver, Developer, and Designer!
+
+Connect with me:
+[Facebook](https://cdn2.vectorstock.com/i/1000x1000/03/81/facebook-logo-icon-vector-27990381.jpg)
+
+[Linkedin](https://cdn-icons-png.flaticon.com/512/145/145807.png)
+
 <!--
 **theove46/theove46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
