@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. Ohiduzzaman</h1>
 <h3 align="center">Problem Solver || Software Developer || Creative Writer</h3>
 
-<p align="left"> <img weight:30px src="https://komarev.com/ghpvc/?username=theove46&label=Profile%20views&color=0e75b6&style=flat" alt="theove46" /> </p>
+<p align="left"> <img weight:30px src="https://komarev.com/ghpvc/?username=theove46&label=Profile%20views&style=flat&theme=radical" alt="theove46" /> </p>
 
 I am Md. Ohiduzzaman Ove. Currently a student of Bachelor of. Science in Computer Science & Engineering at Dhaka City College (Under The National University, Bangladesh). I am a Software Engineer focusing on Flutter Development and Python Development and a competitive programmer. I love to solve programming problems on various online Judge platforms. Let's stay connected and collaborate together.
 
@@ -46,5 +46,4 @@ I am Md. Ohiduzzaman Ove. Currently a student of Bachelor of. Science in Compute
  
  ---
   
- <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="theove46" />
  
