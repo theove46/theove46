@@ -1,4 +1,4 @@
-<img height="200px" src="https://media.licdn.com/dms/image/D5616AQFEsaDd55V53A/profile-displaybackgroundimage-shrink_350_1400/0/1673544289096?e=1680134400&v=beta&t=RAQNZ1eNJhvkBhf3UsxUgF84reUzTNtIb5PlAPjhi68" alt="Md. Ohiduzzaman" />
+<img align="center" height="200px" src="https://media.licdn.com/dms/image/D5616AQFEsaDd55V53A/profile-displaybackgroundimage-shrink_350_1400/0/1673544289096?e=1680134400&v=beta&t=RAQNZ1eNJhvkBhf3UsxUgF84reUzTNtIb5PlAPjhi68" alt="Md. Ohiduzzaman" />
 
 <h1 align="center">Hi 👋, I'm Md. Ohiduzzaman</h1>
 <h3 align="center">Problem Solver || Software Developer || Creative Writer</h3>
@@ -26,7 +26,7 @@
 <a href="https://instagram.com/theove46mania/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/theove46mania/" height="30" width="40" /></a>
     
 <a href="https://www.behance.net/theove" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="theove" height="30" width="40" /></a>
-    
+ <!--   
 <h3 align="left">My Online Judge profiles:</h3>
 <p align="left">
     
@@ -34,7 +34,7 @@
     
 <a href="https://codeforces.com/profile/ove46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ove46" height="30" width="40" /></a>
 </p>
-
+-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     
