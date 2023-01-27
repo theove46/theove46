@@ -1,9 +1,5 @@
 <img height="200px" src="https://media.licdn.com/dms/image/D5616AQFEsaDd55V53A/profile-displaybackgroundimage-shrink_350_1400/0/1673544289096?e=1680134400&v=beta&t=RAQNZ1eNJhvkBhf3UsxUgF84reUzTNtIb5PlAPjhi68" alt="Md. Ohiduzzaman" />
 
-# Hi there, I'm Md. Ohiduzzaman Ove 👋
-
-## Problem Solver || Software Engineer
-
 <img height="30px" src="https://komarev.com/ghpvc/?username=theove46&label=Profile%20views&color=0e75b6&style=flat" alt="Md. Ohiduzzaman" />
 
 ### Connect with me:
