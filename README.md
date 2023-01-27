@@ -31,20 +31,29 @@
 
 
 <br />
+
+<!--
 <p align="left"> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theove46&show_icons=true&theme=tokyonight&layout=compact" alt="theove46" />
   </p>
-  ---
 <p align="left"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theove46&show_icons=true&theme=tokyonight" alt="theove46" />
   </p>
-  ---
 <p align="left"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=theove46&show_icons=true&theme=tokyonight" alt="theove46" />
   </p>
-  ---
 <p align="left"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theove46&show_icons=true&theme=tokyonight" alt="theove46" />
   </p>
-  ---
+-->
+
+---
+  ### :zap: GitHub Stats
+  <br/>
+  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
+<br />
+
+---
+  
+  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
 <br />
