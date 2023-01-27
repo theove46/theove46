@@ -7,8 +7,6 @@
 
 I am Md. Ohiduzzaman Ove. Currently a student of Bachelor of. Science in Computer Science & Engineering at Dhaka City College (Under The National University, Bangladesh). I am a Software Engineer focusing on Flutter Development and Python Development and a competitive programmer. I love to solve programming problems on various online Judge platforms. Let's stay connected and collaborate together.
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theove46) 
-
 
 - 🔭 I’m currently working on **Software Engineering**
 
