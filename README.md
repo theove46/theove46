@@ -1,4 +1,4 @@
-Hi there, I'm Md. Ohiduzzaman Ove 👋
+#Hi there, I'm Md. Ohiduzzaman Ove 👋
 
 I'm a Learner, Problem Solver, Developer, and Designer!
 
@@ -8,9 +8,6 @@ Connect with me:
 [Linkedin](https://cdn-icons-png.flaticon.com/512/145/145807.png)
 
 <!--
-**theove46/theove46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
