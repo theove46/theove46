@@ -44,7 +44,7 @@
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpUN6yhPjDbIPLhCSEXdnqaBqCj4IYrrbHw&usqp=CAU" />
 <img align="left" alt="Figma" width="26px" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU" />
-<img align="left" alt="Photoshop" width="26px" src="https://assets.stickpng.com/images/586d7ac125738d9f2d793e92.png" />
+<img align="left" alt="Photoshop" width="26px" src="https://seeklogo.com/images/P/photoshop-cs5-logo-55DE0F31B9-seeklogo.com.png" />
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cc-logo-png-transparent.png" />
 <img align="left" alt="MSOffice" width="26px" src="https://thumbs.dreamstime.com/b/vinnytsia-ukraine-may-microsoft-office-logo-shadow-editorial-vector-illustration-isolated-transparent-background-microsoft-217860058.jpg" />
 
