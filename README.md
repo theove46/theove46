@@ -31,9 +31,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C++" width="26px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />
-<img align="left" alt="Python" width="26px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
-<img align="left" alt="Dart" width="26px" src="https://image.pngaaa.com/396/23396-middle.png" />
+<img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" />
+<img align="left" alt="Python" width="26px" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-11639606208newcm5th7y.png" />
+<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Flutter" width="26px" src="https://pixlok.com/wp-content/uploads/2021/05/flutter-logo-768x768.jpg" />
