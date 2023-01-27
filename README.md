@@ -2,6 +2,14 @@
 
 ## Problem Solver || Software Engineer
 
+<br />
+<br />
+
+<img width="62px" src="https://komarev.com/ghpvc/?username=theove46&label=Profile%20views&color=0e75b6&style=flat" alt="Md. Ohiduzzaman" />
+
+<br />
+<br />
+
 ### Connect with me:
 
 <a href="https://www.facebook.com/theove6">
@@ -14,13 +22,18 @@
 <br />
 <br />
 
-<a href="https://codeforces.com/profile/ove46">
-   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=theove46&label=Profile%20views&color=0e75b6&style=flat" alt="Md. Ohiduzzaman" />
+### Online Judges profiles:
 
-<br/>
-<br/>
+<a href="https://codeforces.com/profile/ove46">
+    <img align="left"  width="32px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="Codeforces"/>
+</a>
+
+<a href="https://www.hackerrank.com/theove46">
+    <img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="HackerRank"/>
+</a>
+<br />
+<br />
+
 
 <!--
 
