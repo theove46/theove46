@@ -34,7 +34,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theove46&show_icons=true&locale=en&layout=compact" alt="theove46" />
 <br />
 
-### :zap: GitHub Stats
 <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theove46&show_icons=true&theme=tokyonight" alt="theove46" />
 <br />
