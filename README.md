@@ -34,15 +34,17 @@ I am Md. Ohiduzzaman Ove. Currently a student of Bachelor of. Science in Compute
 
 ---
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theove46&show_icons=true&theme=tokyonight" alt="theove46" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theove46&show_icons=true&theme=radical" alt="theove46" /> 
 
 ---
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theove46&show_icons=true&theme=tokyonight" alt="theove46" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theove46&show_icons=true&theme=radical" alt="theove46" />
  
 ---
   
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theove46&show_icons=true&theme=tokyonight&layout=compact" alt="theove46" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theove46&show_icons=true&theme=radical&layout=compact" alt="theove46" />
  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+ ---
+  
+ <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="theove46" />
+ 
