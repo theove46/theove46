@@ -40,12 +40,12 @@
 ---
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theove46&show_icons=true&theme=tokyonight" alt="theove46" />
 ---
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theove46&show_icons=true&theme=tokyonight&layout=compact" alt="theove46" />
- 
- 
- <br />
+
 <br />
 
 ---
-  ### :zap: GitHub Stats
   <br/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theove46&show_icons=true&theme=tokyonight&layout=compact" alt="theove46" />
+ 
+ 
+
