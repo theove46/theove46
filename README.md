@@ -48,10 +48,15 @@
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cc-logo-png-transparent.png" />
 <img align="left" alt="MSOffice" width="26px" src="https://thumbs.dreamstime.com/b/vinnytsia-ukraine-may-microsoft-office-logo-shadow-editorial-vector-illustration-isolated-transparent-background-microsoft-217860058.jpg" />
 
-
 <br />
 <br />
 
+### :zap: GitHub Stats
+  <br/>
+  <img align="center" alt="theove46's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theove46&show_icons=true&theme=tokyonight" />
+<br />
+
+  <img align="center"  alt="theove46's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theove46&show_icons=true" />
 
 <!--
 
