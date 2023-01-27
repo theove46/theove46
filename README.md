@@ -38,15 +38,15 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Flutter" width="26px" src="https://miro.medium.com/max/320/0*ObJbOfJnx4QIPUq9.png" />
 <img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Firebase" width="26px" src="https://icon2.cleanpng.com/20180417/irq/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3cde70706.9853526815239628299463.jpg" />
+<img align="left" alt="SQL" width="26px" src="https://toppng.com/uploads/preview/database-database-icon-11563207079binxarjjyp.png" />
+<img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+<img align="left" alt="Firebase" width="26px" src="https://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="GitHub" width="26px" src="https://pngimg.com/d/github_PNG72.png" />
-<img align="left" alt="Figma" width="26px" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://w7.pngwing.com/pngs/548/34/png-transparent-adobe-photoshop-macos-bigsur-icon.png" />
-<img align="left" alt="Illustrator" width="26px" src="https://w7.pngwing.com/pngs/594/245/png-transparent-adobe-creative-cloud-illustrator-adobe-systems-others-text-rectangle-orange.png" />
-<img align="left" alt="MSOffice" width="26px" src="https://toppng.com/uploads/preview/office-365-icon-microsoft-office-logo-11563405007hzs1sx4xnj.png" />
+<img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpUN6yhPjDbIPLhCSEXdnqaBqCj4IYrrbHw&usqp=CAU" />
+<img align="left" alt="Figma" width="26px" src="https://w7.pngwing.com/pngs/742/150/png-transparent-figma-square-radio-set-signal-squares-bloomies-webdesign-tools-icon-thumbnail.png" />
+<img align="left" alt="Photoshop" width="26px" src="https://w7.pngwing.com/pngs/818/370/png-transparent-photoshop-2020-logo-icon.png" />
+<img align="left" alt="Illustrator" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cc-logo-png-transparent.png" />
+<img align="left" alt="MSOffice" width="26px" src="https://thumbs.dreamstime.com/b/vinnytsia-ukraine-may-microsoft-office-logo-shadow-editorial-vector-illustration-isolated-transparent-background-microsoft-217860058.jpg" />
 
 
 <br />
