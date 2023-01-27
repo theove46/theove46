@@ -30,9 +30,8 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theove46&show_icons=true&locale=en&layout=compact" alt="theove46" /></p>
-</br>
+<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=theove46&show_icons=true&locale=en" alt="theove46" /></p>
-</br>
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theove46&" alt="theove46" /></p>
-</br>
