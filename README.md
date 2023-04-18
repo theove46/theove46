@@ -1,4 +1,5 @@
-<img align="center" height="250px" src="https://media.licdn.com/dms/image/D5616AQFEsaDd55V53A/profile-displaybackgroundimage-shrink_350_1400/0/1673544289096?e=1680134400&v=beta&t=RAQNZ1eNJhvkBhf3UsxUgF84reUzTNtIb5PlAPjhi68" alt="Md. Ohiduzzaman" />
+<img align="center" height="250px" src="https://user-images.githubusercontent.com/57717227/232870796-3a8f8595-ad93-4ba9-a9bf-52bd5373010c.jpeg" alt="Md. Ohiduzzaman" />
+
 
 <h1 align="center">Hi 👋, I'm Md. Ohiduzzaman</h1>
 <h3 align="center">Problem Solver || Software Developer || Creative Writer</h3>
