@@ -1,25 +1,36 @@
-<img align="center" height="250px" src="https://user-images.githubusercontent.com/57717227/232870796-3a8f8595-ad93-4ba9-a9bf-52bd5373010c.jpeg" alt="Md. Ohiduzzaman" />
+<img align="center" height="250px" src="https://github.com/user-attachments/assets/f1889946-c7d1-48fb-b2ca-ba2e485f0606" alt="Md. Ohiduzzaman" />
 
+<h1 align="center">Hi, I'm Md. Ohiduzzaman Ove</h1>
+<h3 align="center">Software Engineer II | Flutter & iOS Developer | Competitive Programmer</h3>
 
-<h1 align="center">Hi 👋, I'm Md. Ohiduzzaman</h1>
-<h3 align="center">Problem Solver || Software Developer || Creative Writer</h3>
+I’m **Md. Ohiduzzaman Ove**, a passionate **Software Engineer II at Brain Station 23 PLC**, specializing in **mobile application development** with a primary focus on **Flutter** and **iOS** technologies.
 
-<p align="left"> <img weight:30px src="https://komarev.com/ghpvc/?username=theove46&label=Profile%20views&style=flat&themetokyonight" alt="theove46" /> </p>
+I hold a **Bachelor of Science in Computer Science & Engineering** degree from **Dhaka City College**, under the **National University of Bangladesh**. Throughout my academic and professional journey, I have actively participated in programming contests, technical competitions, and collaborative projects that strengthened my problem-solving, leadership, and teamwork skills.
 
-I am Md. Ohiduzzaman Ove. Currently a student of Bachelor of. Science in Computer Science & Engineering at Dhaka City College (Under The National University, Bangladesh). I am a Software Engineer focusing on Flutter Development and Python Development and a competitive programmer. I love to solve programming problems on various online Judge platforms. Let's stay connected and collaborate together.
+At **Brain Station 23 PLC**, I have successfully contributed to numerous production-grade applications, collaborating with cross-functional teams to deliver high-quality software solutions across different industries.
 
+I have hands-on experience with **Dart, Swift, C/C++, and Python**, along with a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, Firebase, REST APIs, and UI/UX design using Figma**. I am also a competitive programmer who enjoys solving algorithmic challenges on various online judge platforms.
 
-- 🔭 I’m currently working on **Software Engineering**
+Alongside my professional work, I developed **Dristi 360: Explore Bangladesh**, a tourism-focused mobile application that promotes and showcases travel destinations across Bangladesh.
 
-- 🌱 I’m currently learning **Django**
+I am passionate about building impactful products, learning new technologies, and contributing to meaningful projects. With strong skills in leadership, teamwork, communication, and project management, I continuously strive to grow both as an engineer and as a team player.
 
-- 💬 Ask me about **Flutter, Python**
+* 🔭 I’m currently working on **Flutter & iOS Application Development**
 
-- 📫 How to reach me **ohiduzzaman.ove.46@gmail.com**
+* 🌱 I’m currently learning **Advanced iOS Development, System Design & Backend Development**
 
-- 👨‍💻 My portfolio [https://theove46.github.io](https://theove46.github.io)
+* 💬 Ask me about **Flutter, Dart, Swift, Python, Node.js, Firebase, REST APIs & Mobile App Architecture**
 
-- ⚡ Fun fact **I have some Taekwondo Skills also!!**
+* 👨‍💻 Creator of **Dristi 360: Explore Bangladesh**
+
+* 📫 How to reach me: **[ohiduzzaman.ove.46@gmail.com](mailto:ohiduzzaman.ove.46@gmail.com)**
+
+* 👨‍💻 My portfolio: **https://theove46.github.io**
+
+* ⚡ Fun fact: **I enjoy competitive programming and have some Taekwondo skills too!**
+
+### 🤝 Stay Connected and Merge.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/ohiduzzaman-ove/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ohiduzzaman-ove/" height="30" width="40" /></a><a href="https://fb.com/theove6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/theove6" height="30" width="40" /></a><a href="https://instagram.com/theove46mania/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/theove46mania/" height="30" width="40" /></a><a href="https://www.behance.net/theove" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="theove" height="30" width="40" /></a>
